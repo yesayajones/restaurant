@@ -24,6 +24,12 @@ const Navbar = () => {
 					<a href='#menu'>Menu</a>
 				</li>
 				<li className='p__opensans'>
+					<a href='#offer'>Offer</a>
+				</li>
+				<li className='p__opensans'>
+					<a href='#order'>Order Track</a>
+				</li>
+				<li className='p__opensans'>
 					<a href='#awards'>Awards</a>
 				</li>
 				<li className='p__opensans'>
