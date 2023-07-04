@@ -7,11 +7,14 @@ import gallery03 from '../assets/gallery03.png';
 import gallery04 from '../assets/gallery04.png';
 import about from '../img/about-sushi.png';
 import logo from '../assets/logo.png';
+import popular1 from '../img/popular-onigiri.png';
+import popular2 from '../img/popular-spring-rols.png';
+import popular3 from '../img/popular-sushi-rolls.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../img/home-sushi-rolls.png';
-import findus from '../assets/findus.png';
+import recently from '../img/recently-salmon-sushi.png';
 import laurels from '../assets/laurels.png';
 import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
@@ -34,8 +37,11 @@ export default {
 	menu,
 	overlaybg,
 	spoon,
+	popular1,
+	popular2,
+	popular3,
 	welcome,
-	findus,
+	recently,
 	laurels,
 	award01,
 	award02,

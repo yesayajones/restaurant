@@ -10,7 +10,8 @@ const Header = () => (
 			<SubHeading title='Chase the new flavour' />
 			<h1 className='app__header-h1'>Enjoy Delicious Sushi Food</h1>
 			<p className='p__opensans' style={{ margin: '2rem 0' }}>
-				After A Good Dinner One Can Forgive Anybody, Even One's Own Relations.{' '}
+				Enjoy a good dinner with the best dishes in the restaurant and improve
+				your day.{' '}
 			</p>
 			<button type='button' className='custom__button'>
 				Order Now &rarr;
