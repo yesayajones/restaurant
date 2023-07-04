@@ -19,10 +19,10 @@ const Footer = () => (
 			</div>
 
 			<div className='app__footer-links_logo'>
-				<img src={images.gericht} alt='footer_logo' />
+				<img src={images.sushi} alt='footer_logo' />
 				<p className='p__opensans'>
-					&quot;The best way to find yourself is to lose yourself in the service
-					of others.&quot;
+					&quot;Food for the bodyis not enough. There must be food for the soul
+					.&quot;
 				</p>
 				<img
 					src={images.spoon}
@@ -46,7 +46,10 @@ const Footer = () => (
 		</div>
 
 		<div className='footer__copyright'>
-			<p className='p__opensans'>2021 Gericht. All Rights reserved.</p>
+			<p className='p__opensans'>
+				{' '}
+				&#169; 2023 Yesaya Jones. All Rights reserved.
+			</p>
 		</div>
 	</div>
 );
