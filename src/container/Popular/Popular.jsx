@@ -10,8 +10,8 @@ const Popular = () => (
 			<article className='popular__card'>
 				<img src={images.popular1} alt='popular' className='popular__img' />
 
-				<h3 className='popular name'>Card 1</h3>
-				<span className='popular__description'>Recently Added</span>
+				<h3 className='popular name'>Onigiri</h3>
+				<span className='popular__description'>Japanese Dish</span>
 				<span className='popular__price'>950sh.</span>
 				<button className='popular__button'>
 					<i className='ri-shopping-bag-line'></i>
@@ -21,8 +21,8 @@ const Popular = () => (
 			<article className='popular__card'>
 				<img src={images.popular2} alt='popular' className='popular__img' />
 
-				<h3 className='popular name'>Card 2</h3>
-				<span className='popular__description'>Recently Added</span>
+				<h3 className='popular name'>Spring Rolls</h3>
+				<span className='popular__description'>Japanese Dish</span>
 				<span className='popular__price'>700sh.</span>
 				<button className='popular__button'>
 					<i className='ri-shopping-bag-line'></i>
@@ -32,8 +32,8 @@ const Popular = () => (
 			<article className='popular__card'>
 				<img src={images.popular3} alt='popular ' className='popular__img' />
 
-				<h3 className='popular name'>Card 3</h3>
-				<span className='popular__description'>Recently Added</span>
+				<h3 className='popular name'>Sushi Rolls</h3>
+				<span className='popular__description'>Japanese Dish</span>
 				<span className='popular__price'>600sh.</span>
 				<button className='popular__button'>
 					<i className='ri-shopping-bag-line'></i>
