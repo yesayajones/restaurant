@@ -22,7 +22,7 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
+import sushi from '../assets/sushi.png';
 
 export default {
 	bg,
@@ -37,6 +37,7 @@ export default {
 	menu,
 	overlaybg,
 	spoon,
+	sushi,
 	popular1,
 	popular2,
 	popular3,
@@ -49,5 +50,4 @@ export default {
 	award05,
 	sign,
 	quote,
-	gericht,
 };
