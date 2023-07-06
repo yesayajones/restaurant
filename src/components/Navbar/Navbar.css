@@ -15,7 +15,8 @@
 	height: 10px;
 	font-family: 'Lora', serif;
 	color: #dcca87;
-	flex-basis: 40%;
+	flex-basis: 50%;
+	margin-left: 2%;
 }
 
 .app__navbar-logo img {
@@ -30,7 +31,7 @@
 	align-items: center;
 
 	list-style: none;
-	flex-basis: 60%;
+	flex-basis: 50%;
 }
 
 .app__navbar-links li {
