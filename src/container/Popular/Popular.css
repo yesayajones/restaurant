@@ -11,6 +11,7 @@ body {
 .popular {
 	text-align: center;
 	margin-bottom: 2rem;
+	color: #e4ddca;
 }
 
 .popular__container {
@@ -30,6 +31,7 @@ body {
 	border-radius: 0.5rem;
 	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 	transition: transform 0.3s ease-in-out;
+	cursor: pointer;
 }
 
 .popular__card:hover {
@@ -72,9 +74,10 @@ body {
 }
 
 .popular__price {
-	font-size: 1.2rem;
-	font-weight: bold;
+	font-size: 1rem;
+	font-weight: 500;
 	margin-bottom: 1rem;
+	color: #dcca87;
 }
 
 .popular__description {
