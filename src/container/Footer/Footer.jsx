@@ -18,7 +18,7 @@ const Footer = () => (
 			<div className='app__footer-links_logo'>
 				<img src={images.sushi} alt='footer_logo' />
 				<p className='p__opensans'>
-					&quot;Food for the bodyis not enough. There must be food for the soul
+					&quot;Food for the body is not enough. There must be food for the soul
 					.&quot;
 				</p>
 				<img
