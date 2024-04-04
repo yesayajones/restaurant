@@ -17,14 +17,12 @@ const AboutUs = () => (
 				<div className='app__chef-content_quote'>
 					<img src={images.quote} alt='quote_image' />
 					<p className='p__opensans'>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+					Sakura Sushi offers a fusion of Japanese tradition and culinary creativity
 					</p>
 				</div>
 				<p className='p__opensans'>
 					{' '}
-					auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-					Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-					lectus eu. Congue iaculis integer curabitur semper sit nunc.{' '}
+					With a focus on freshness and quality, our chefs craft a diverse menu of traditional favorites and innovative creations. Join us at Sakura Sushi for a journey of taste and culture in every bite..{' '}
 				</p>
 			</div>
 

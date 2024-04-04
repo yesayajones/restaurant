@@ -31,8 +31,7 @@ const Gallery = () => {
 					className='p__opensans'
 					style={{ color: '#AAAAAA', marginTop: '2rem' }}
 				>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-					mattis ipsum turpis elit elit scelerisque egestas mu.
+					Dive into our sushi menu carousel and savor a variety of delectable dishes. Click 'View More' for a taste of our culinary delights.ßß
 				</p>
 				<button type='button' className='custom__button'>
 					View More
